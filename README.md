@@ -17,4 +17,4 @@ O Projeto Anna Bella é o segundo um website criado através da plataforma Udemy
 
 Nikoly Pereira da Silva
 
-[Perfil LinkedIn](www.linkedin.com/in/nikoly-pereira-da-silva)
+[Perfil LinkedIn](https://www.linkedin.com/in/nikoly-pereira-da-silva)
