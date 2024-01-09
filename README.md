@@ -1,4 +1,4 @@
-# Projeto Anna Bella
+### Projeto Anna Bella
 
 ## Sobre o projeto
 
@@ -8,7 +8,8 @@ O Projeto Anna Bella é o segundo um website criado através da plataforma Udemy
 
 ## Tecnologias utilizadas
 ### Front end
-- HTML / CSS 
+- HTML
+- CSS 
 ### Implantação em produção
 - Front end web: Vercel
 
